@@ -27,3 +27,5 @@
 * [Actions and Blinks](https://docs.dialect.to/documentation)
 * [Solana Py](https://github.com/michaelhly/solana-py/)
 * [Solders](https://github.com/kevinheavey/solders)
+* [RPC](https://www.helius.dev/)
+
